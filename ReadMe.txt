@@ -9,3 +9,10 @@
 	1.La Section pour les requetes
 	2.La Section pour les données
 
+## Pour lancer l'interpreteur prolog, on tape:
+	swipl <NomFichier>.pl
+
+##Pour quitter Prolog , on tape la commande:
+	halt.
+ 
+
