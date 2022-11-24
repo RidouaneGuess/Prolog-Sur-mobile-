@@ -1,4 +1,9 @@
 man(john).
-woman(fati).
-loves(fss,ahmed).
+woman(frida).
+woman(nelly).
+duck(donald).
+loves(john,frida).
+loves(frida,donald).
+loves(nelly,donald).
+loves(donald,nelly).
 
